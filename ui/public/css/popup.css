@@ -337,7 +337,7 @@ ul{
 	margin: 2em 0 2em;
 }
 .payment-sendbtns input[type="reset"]{
-	background:#ffa417;
+	background:#69f0ae;
 	padding:10px 20px;
 	border: none;
 	color: #FFF;
@@ -353,7 +353,7 @@ ul{
 }
 .payment-sendbtns input[type="reset"]:hover{
 	color:#FFF;
-	background:#ffa417;
+	background:#69f0ae;
 }
 .payment-sendbtns input[type="submit"]{
 	background:#c32143;

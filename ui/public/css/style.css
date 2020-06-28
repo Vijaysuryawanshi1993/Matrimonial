@@ -156,8 +156,8 @@ body a{
     display: none;
 }
 .navbar-default {
-    background-color:#f1b458 !important;
-    border-color:#f1b458;
+    background-color:#e040fb !important;
+    border-color:#e040fb;
     border-radius: 0px;
 }
 .navbar-default .navbar-nav > li > a {
@@ -284,8 +284,8 @@ ul.nav_1 li.last{
 	margin-right:0;
 }
 .nav .open>a, .nav .open>a:hover, .nav .open>a:focus, .nav>li>a:hover, .nav>li>a:focus{
-    background-color:#69f0ae !important;
-    border-color:#69f0ae;
+    background-color:#e040fb !important;
+    border-color:#e040fb;
     color:#fff !important;
 }
 .banner{
@@ -1899,7 +1899,7 @@ i.icon_3{
     background: #FFFFFF;
 }
 .about_middle{
-	background: #c32143;
+	background: #2979ff;
     padding:5em 0;
 }
 .about_middle h2{
